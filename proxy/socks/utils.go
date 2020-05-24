@@ -3,8 +3,8 @@ package socks
 import (
 	"net"
 
-	"github.com/brobird/clash/common/pool"
-	"github.com/brobird/clash/component/socks5"
+	"github.com/renmingxu/clash/common/pool"
+	"github.com/renmingxu/clash/component/socks5"
 )
 
 type packet struct {

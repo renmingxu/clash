@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/brobird/clash/component/dialer"
+	"github.com/renmingxu/clash/component/dialer"
 )
 
 // Vehicle Type

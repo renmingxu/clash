@@ -6,11 +6,11 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/brobird/clash/adapters/outbound"
-	"github.com/brobird/clash/adapters/provider"
-	"github.com/brobird/clash/common/singledo"
-	"github.com/brobird/clash/component/dialer"
-	C "github.com/brobird/clash/constant"
+	"github.com/renmingxu/clash/adapters/outbound"
+	"github.com/renmingxu/clash/adapters/provider"
+	"github.com/renmingxu/clash/common/singledo"
+	"github.com/renmingxu/clash/component/dialer"
+	C "github.com/renmingxu/clash/constant"
 )
 
 type Relay struct {

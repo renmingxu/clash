@@ -9,12 +9,12 @@ import (
 	"runtime"
 	"syscall"
 
-	"github.com/brobird/clash/config"
-	"github.com/brobird/clash/constant"
-	C "github.com/brobird/clash/constant"
-	"github.com/brobird/clash/hub"
-	"github.com/brobird/clash/hub/executor"
-	"github.com/brobird/clash/log"
+	"github.com/renmingxu/clash/config"
+	"github.com/renmingxu/clash/constant"
+	C "github.com/renmingxu/clash/constant"
+	"github.com/renmingxu/clash/hub"
+	"github.com/renmingxu/clash/hub/executor"
+	"github.com/renmingxu/clash/log"
 )
 
 var (

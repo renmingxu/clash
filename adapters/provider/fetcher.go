@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/brobird/clash/log"
+	"github.com/renmingxu/clash/log"
 )
 
 var (

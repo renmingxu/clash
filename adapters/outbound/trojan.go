@@ -7,9 +7,9 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/brobird/clash/component/dialer"
-	"github.com/brobird/clash/component/trojan"
-	C "github.com/brobird/clash/constant"
+	"github.com/renmingxu/clash/component/dialer"
+	"github.com/renmingxu/clash/component/trojan"
+	C "github.com/renmingxu/clash/constant"
 )
 
 type Trojan struct {

@@ -5,7 +5,7 @@ import (
 	"net"
 	"strings"
 
-	trie "github.com/brobird/clash/component/domain-trie"
+	trie "github.com/renmingxu/clash/component/domain-trie"
 )
 
 var (

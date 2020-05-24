@@ -3,12 +3,12 @@ package socks
 import (
 	"net"
 
-	adapters "github.com/brobird/clash/adapters/inbound"
-	"github.com/brobird/clash/common/pool"
-	"github.com/brobird/clash/common/sockopt"
-	"github.com/brobird/clash/component/socks5"
-	C "github.com/brobird/clash/constant"
-	"github.com/brobird/clash/tunnel"
+	adapters "github.com/renmingxu/clash/adapters/inbound"
+	"github.com/renmingxu/clash/common/pool"
+	"github.com/renmingxu/clash/common/sockopt"
+	"github.com/renmingxu/clash/component/socks5"
+	C "github.com/renmingxu/clash/constant"
+	"github.com/renmingxu/clash/tunnel"
 )
 
 type SockUDPListener struct {
